@@ -9,6 +9,7 @@ class MenuItem {
         this.nama = nama;
         this.harga = harga;
     }
+    ///aku anak sehat
 
     public String getNama() {
         return nama;
